@@ -4,6 +4,7 @@
 The entire page is rotated 90 degrees, providing a fresh perspective. Here's a breakdown:
 
 
+
 **Page Layout**
 
 .center: Ensures full viewport coverage for an immersive experience.
@@ -17,6 +18,7 @@ The entire page is rotated 90 degrees, providing a fresh perspective. Here's a b
 .title: Navigation items (Home, About, Contact) presented within the navigation bar.
 
 
+
 **Content Presentation**
 
 .page: Individual pages with a flex layout, centered content, and eye-catching alternating background colors.
@@ -24,9 +26,12 @@ The entire page is rotated 90 degrees, providing a fresh perspective. Here's a b
 .page-content: Content inside each page is rotated for a seamless visual flow.
 
 
+
 **Scrollbar Customization**
 
 .content::-webkit-scrollbar: Crafted a custom style to elegantly hide the scrollbar.
+
+![image](https://github.com/swatimoluguri/vertical-website/assets/149689000/1b700a90-25e1-4592-9445-d6f1cefce4bf)
 
 
 Explore the live site [here](http://vertical-website.netlify.app/) to experience the distinctive vertical navigation and content arrangement. 
